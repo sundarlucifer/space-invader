@@ -101,3 +101,5 @@ while run:
     check_collision()
 
     pygame.display.update()
+
+    fps.tick(12)
