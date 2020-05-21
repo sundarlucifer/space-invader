@@ -102,4 +102,4 @@ while run:
 
     pygame.display.update()
 
-    fps.tick(20)
+    fps.tick(30)
